@@ -5,8 +5,7 @@ import React from 'react'
 const MissionDetails = ( ) => {
   return (
     <div>
-        <h1>sdhgsadkjhfas</h1>
-        <p>something</p>
+        <h1>Mission Details</h1>
     
     </div>
   )
