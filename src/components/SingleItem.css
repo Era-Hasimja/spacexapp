@@ -1,0 +1,10 @@
+.home-card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.card{
+    width: 18rem;
+}
